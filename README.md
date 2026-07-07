@@ -1,4 +1,4 @@
-# 🌍 Global Banking Forecast Analytics Suite
+# Global Banking Forecast Analytics Suite
 ## Dashboard Preview
 
 ### Executive Dashboard
@@ -17,7 +17,7 @@ An end-to-end financial forecasting and risk analytics platform for global banki
 
 This project compares traditional statistical models and deep learning models for stock price forecasting while providing investment-focused analytics through an interactive Streamlit dashboard.
 
-## 🎯 Project Objective
+## Project Objective
 
 The goal of this project is to analyze and forecast global banking stocks using multiple forecasting approaches and evaluate their performance using real-world financial metrics.
 
@@ -30,7 +30,7 @@ The platform combines:
 
 to help users understand the behavior, risk profile, and forecasting performance of major international banking institutions.
 
-## 🌎 Banks Analyzed
+## Banks Analyzed
 
 | Country | Bank | Ticker |
 |----------|----------|----------|
@@ -41,7 +41,7 @@ to help users understand the behavior, risk profile, and forecasting performance
 | India | HDFC Bank | HDFCBANK.NS |
 | India | Axis Bank | AXISBANK.NS |
 
-## 🚀 Features
+## Features
 
 ### Forecasting Models
 - ARIMA
@@ -64,7 +64,7 @@ to help users understand the behavior, risk profile, and forecasting performance
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Programming Language
 - Python
@@ -90,7 +90,7 @@ to help users understand the behavior, risk profile, and forecasting performance
 
 ---
 
-## 📈 Methodology
+## Methodology
 
 ### Step 1: Data Collection
 
@@ -133,7 +133,7 @@ Results were integrated into a Streamlit dashboard for visualization and compara
 
 ---
 
-## 📊 Key Findings
+## Key Findings
 
 ### Model Performance
 
@@ -153,7 +153,7 @@ Short-term forecasts suggested relatively stable price behavior across most bank
 
 ---
 
-## 🖥 Dashboard Features
+## Dashboard Features
 
 The Streamlit dashboard provides:
 
@@ -184,7 +184,7 @@ The Streamlit dashboard provides:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 ARIMA-LSTM-Stock-forecasting
@@ -209,7 +209,7 @@ ARIMA-LSTM-Stock-forecasting
 
 ---
 
-## ▶️ Run Locally
+## Run Locally
 
 ### Clone Repository
 
@@ -237,7 +237,7 @@ streamlit run app.py
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 Planned extensions for future versions:
 
@@ -251,7 +251,7 @@ Planned extensions for future versions:
 
 ---
 
-## 🎯 Project Impact
+## Project Impact
 
 This project demonstrates how forecasting models and financial risk metrics can be combined into a decision-support system for investment research.
 
@@ -265,7 +265,7 @@ The platform enables users to:
 
 ---
 
-## 👤 Author
+## Author
 
 **Nehasri Eragandula**
 
