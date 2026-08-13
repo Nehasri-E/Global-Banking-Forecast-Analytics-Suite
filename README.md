@@ -14,7 +14,7 @@ Metrics below are averaged across all six stocks, from walk-forward validation (
 | Hybrid ARIMA-LSTM | 4.18 | 5.22 |
 | LSTM | 7.05 | 8.44 |
 
-**ARIMA won outright — and by a wide margin.** This was genuinely surprising going in, since LSTM is the "fancier" model. But bank stock prices over short horizons behave close to a random walk, and ARIMA's simpler linear structure handles that better than LSTM, which needs more data and tends to overfit noise on daily-level financial series. The Hybrid model landed in between, which makes sense since it blends both.
+**ARIMA won outright and by a wide margin.** This was genuinely surprising going in, since LSTM is the "fancier" model. But bank stock prices over short horizons behave close to a random walk, and ARIMA's simpler linear structure handles that better than LSTM, which needs more data and tends to overfit noise on daily-level financial series. The Hybrid model landed in between, which makes sense since it blends both.
 
 For each stock, the pattern held consistently, ARIMA had the lowest error for every single one of the six banks, from Deutsche Bank (ARIMA MAE 0.15) to Axis Bank (ARIMA MAE 10.72), which had the highest absolute error of the group, likely due to higher volatility in Indian banking stocks over the period analyzed.
 
